@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Step1-ProjectEkam</string>
+    <string name="we_are_chuck_norris">We are Chuck Norris</string>
+    <string name="some_men_have_been_able_to_pull_large_objects_like_cars_or_trucks_with_their_teeth_chuck_norris_is_able_to_pull_the_entire_u_s_navy_seventh_fleet">Some men have been able to pull large objects like cars or trucks with their teeth. Chuck Norris is able to pull the entire U.S. Navy Seventh Fleet.</string>
+    <string name="update">Update</string>
 </resources>
